@@ -1,0 +1,8 @@
+# Trying to make a gitignore for Xilinx ISE starting from the
+# demo project for the Basys2
+*_ISE_Backup
+_xmsgs
+*_xdb
+*.xrpt
+*.html
+*summary.xml
