@@ -6,3 +6,8 @@ _xmsgs
 *.xrpt
 *.html
 *summary.xml
+*.map
+*log
+*.restore
+*.ptwx
+*.ut
