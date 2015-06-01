@@ -21,7 +21,7 @@ _xmsgs
 *.bit
 *.bld
 *.drc
-# *.gise
+*.gise
 *.lso
 *.ngc
 *.ngr
@@ -42,3 +42,5 @@ _xmsgs
 *.ngm
 _ngo
 *_map*
+*_guide*
+*.ncd
