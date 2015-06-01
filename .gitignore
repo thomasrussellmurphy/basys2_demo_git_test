@@ -1,6 +1,7 @@
 # Trying to make a gitignore for Xilinx ISE starting from the
 # demo project for the Basys2
 *_ISE_Backup
+iseconfig
 _xmsgs
 *_xdb
 *.xrpt
@@ -13,5 +14,4 @@ _xmsgs
 *.ut
 *.ise  # Old version of project file, using *.isex now
 *.xreport
-*.ncd
 *.ngd
