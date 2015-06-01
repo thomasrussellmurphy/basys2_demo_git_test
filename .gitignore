@@ -2,11 +2,12 @@
 # demo project for the Basys2
 *_ISE_Backup
 iseconfig
+xst
 _xmsgs
 *_xdb
 *.xrpt
 *.html
-*summary.xml
+*.xml
 *.map
 *log
 *.restore
@@ -15,3 +16,29 @@ _xmsgs
 *.ise  # Old version of project file, using *.isex now
 *.xreport
 *.ngd
+*_pad.*
+*.bgn
+*.bit
+*.bld
+*.drc
+# *.gise
+*.lso
+*.ngc
+*.ngr
+*.pad
+*.par
+*.pcf
+*.prj
+*.stx
+*.syr
+*.twr
+*.twx
+*.unroutes
+*.xpi
+*.xst
+*.xwbt
+*.ncd  # Not sure how necessary these are...
+*.mrp
+*.ngm
+_ngo
+*_map*
