@@ -11,3 +11,7 @@ _xmsgs
 *.restore
 *.ptwx
 *.ut
+*.ise  # Old version of project file, using *.isex now
+*.xreport
+*.ncd
+*.ngd
