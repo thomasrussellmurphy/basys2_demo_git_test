@@ -1,23 +1,23 @@
 ----------------------------------------------------------------------------------
 -- Company:     Digilent Ro
 -- Engineer:    Mircea Dabacan
--- 
--- Create Date:    10:45:59 11/18/2006 
--- Design Name: 
--- Module Name:    ckMux - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
+--
+-- Create Date:    10:45:59 11/18/2006
+-- Design Name:
+-- Module Name:    ckMux - Behavioral
+-- Project Name:
+-- Target Devices:
+-- Tool versions:
 -- Description:     Selects ckOut to be:
 --                      - ck0 when sel = '0'
 --                      - ck1 when sel = '1'
 --
--- Dependencies: 
+-- Dependencies:
 --
--- Revision: 
+-- Revision:
 -- Revision 0.01 - File Created
 -- Revision 0.02 - Modified for Basys2 (both ck0 and ck1 = 50MHz)
--- Additional Comments: 
+-- Additional Comments:
 --
 ----------------------------------------------------------------------------------
 library IEEE;
